@@ -33,6 +33,7 @@ TerKo Auto Grad Ltd, Ternopil (Ukraine)
 ## EDUCATION AND TRAINING
 
 2020 English for Media Literacy
+Prometheus. [Certificate] 
 
 2020 English for Business and Entrepreneurship
 Prometheus. [Certificate](https://courses.prometheus.org.ua:18090/downloads/560c7965a5074b8fa4f916404c2125af/Certificate.pdf)
